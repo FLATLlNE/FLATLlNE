@@ -18,7 +18,7 @@ $\color{#787163}{\text{SINCE NOTHING MAKES SENSE.}}$
 <br>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=11100c&interchange=false&profanity=false&hide_remaster=true&bar_color=f5e5c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=11100c&interchange=false&profanity=false&hide_remaster=true&bar_color=787163&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&redirect=true)
 
 <br>
 
