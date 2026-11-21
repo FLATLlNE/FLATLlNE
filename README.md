@@ -99,3 +99,4 @@ $\color{#787163}{\text{SINCE NOTHING MAKES SENSE.}}$
 <br>
 
 <br>
+<img src="https://github.com/user-attachments/assets/d22df463-59f3-4c22-b17d-8042a0f68c6d" height="521">
