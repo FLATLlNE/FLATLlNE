@@ -5,7 +5,7 @@
 <br>
 <br>
 
-$\color{#787163}{\texttt{VANㅤ⸝ㅤDUTCH}}$ </br> <a href="https://rentry.co/therealdutchvan"><img src="https://img.shields.io/badge/WEBSITE-%23252422%20?style=flat-square&color=%23252422"><a>ㅤㅤ<sup>he  ㅤ 、  ㅤesp + eng ㅤㅤ<a href="https://saturdaynightwrist.neocities.org/"><img src="https://img.shields.io/badge/ATABOOK-%23252422%20?style=flat-square&color=%23252422"><a><br>
+$\color{#787163}{\texttt{VANㅤ⸝ㅤDUTCH}}$ </br> <a href="https://saturdaynightwrist.neocities.org/"><img src="https://img.shields.io/badge/WEBSITE-%23252422%20?style=flat-square&color=%23252422"><a>ㅤㅤ<sup>he  ㅤ 、  ㅤesp + eng ㅤㅤ<a href="https://saturdaynightwrist.neocities.org/"><img src="https://img.shields.io/badge/ATABOOK-%23252422%20?style=flat-square&color=%23252422"><a><br>
 
 
 
